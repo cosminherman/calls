@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "GenerativeCalls",
+  "name": "Autocalls",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
@@ -16,7 +16,7 @@
     }
   },
   "topAnchor": {
-    "name": "Ghid platformă",
+    "name": "Platform Guide",
     "icon": "book"
   },
   "sidebar": {
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://generative.ro"
+    "url": "https://autocalls.ai"
   }, {
-    "name": "Suport",
-    "url": "https://generative.ro/contact"
+    "name": "Support",
+    "url": "https://autocalls.ai/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://calls.generative.ro"
+    "url": "https://app.autocalls.ai"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -39,11 +39,16 @@
     "color": "#6c63ff",
     "url": "automation-platform"
   }, {
-    "name": "Tutoriale video",
-    "icon": "video",
+    "name": "White Label",
+    "icon": "tag",
     "color": "#ff0142",
-    "url": "automation-platform/tutorials"
-  }, 
+    "url": "white-label"
+  }, {
+    "name": "API Reference",
+    "icon": "code",
+    "color": "#1c51fc",
+    "url": "api-reference"
+  }],
   "navigation": [{
       "group": "Introduction",
       "pages": [
@@ -191,10 +196,10 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/generativesrl"
+    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
   },
   "api": {
-    "baseUrl": "https://calls.generative.ro/api/",
+    "baseUrl": "https://app.autocalls.ai/api/",
     "auth": {
       "method": "bearer"
     }
