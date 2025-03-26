@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Autocalls",
+  "name": "GenerativeCalls",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
@@ -16,7 +16,7 @@
     }
   },
   "topAnchor": {
-    "name": "Platform Guide",
+    "name": "Ghid platformă",
     "icon": "book"
   },
   "sidebar": {
@@ -26,7 +26,7 @@
     "name": "Home",
     "url": "https://generative.ro"
   }, {
-    "name": "Support",
+    "name": "Suport",
     "url": "https://generative.ro/contact"
   }],
   "topbarCtaButton": {
@@ -191,10 +191,10 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
+    "linkedin": "https://www.linkedin.com/company/generativesrl"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://calls.generative.ro/api/",
     "auth": {
       "method": "bearer"
     }
