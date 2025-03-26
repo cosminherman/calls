@@ -16,7 +16,7 @@
     }
   },
   "topAnchor": {
-    "name": "Ghis platformă",
+    "name": "Ghid platformă",
     "icon": "book"
   },
   "sidebar": {
@@ -30,7 +30,7 @@
     "url": "https://generative.ro/contact"
   }],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Tablou de bord",
     "url": "https://calls.generative.ro"
   },
   "anchors": [{
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "group": "Apeluri primite",
+      "group": "Apeluri primite, Inbound",
       "pages": [
         "inbound-calls/overview",
         "inbound-calls/provisioning",
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "group": "Apeluri efectuate",
+      "group": "Apeluri efectuate, Outbound",
       "pages": [
         "outbound-calls/overview",
         "outbound-calls/campaigns",
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "group": "AI Prompting & Conversation Design",
+      "group": "Prompt AI & Design de conversații",
       "pages": [
         "conversation-design/prompt-basics",
         "conversation-design/knowledge-bases",
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "group": "Automation & Integrations",
+      "group": "Automatizare & Integrări",
       "pages": [
         "automation/overview",
         "automation/webhook-api",
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "group": "Costs & Pricing",
+      "group": "Costuri & Prețuri",
       "pages": [
         "pricing/overview",
         "pricing/usage-based",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "group": "Number Provisioning",
+      "group": "Provizionare Numere",
       "pages": [
         "provisioning/supported-countries",
         "provisioning/managing-numbers"
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "group": "Troubleshooting & FAQs",
+      "group": "Depanare & Întrebări frecvente",
       "pages": [
         "troubleshooting/voice-problems",
         "troubleshooting/billing",
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "group": "API Reference",
+      "group": "Referințe API",
       "pages": [
         "api-reference/introduction",
         "api-reference/authentication",
