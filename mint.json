@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://generative.ro"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://generative.ro/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://calls.generative.ro"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -39,16 +39,11 @@
     "color": "#6c63ff",
     "url": "automation-platform"
   }, {
-    "name": "White Label",
+    "name": "Tutoriale video",
     "icon": "tag",
     "color": "#ff0142",
-    "url": "white-label"
-  }, {
-    "name": "API Reference",
-    "icon": "code",
-    "color": "#1c51fc",
-    "url": "api-reference"
-  }],
+    "url": "automation-platform/tutorials"
+  }, 
   "navigation": [{
       "group": "Introduction",
       "pages": [
