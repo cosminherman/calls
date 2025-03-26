@@ -159,7 +159,7 @@
       ]
     },
     {
-      "group": "No-Code Automation platform",
+      "group": "Automatizare No-Code a platformei",
       "pages": [
         "automation-platform/introduction",
         "automation-platform/building-flows",
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "group": "Tutorials",
+      "group": "Tutoriale",
       "pages": [
         "automation-platform/tutorials/outbound-form-call",
         "automation-platform/tutorials/inbound-context-injection"
@@ -188,10 +188,10 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
+    "linkedin": "https://www.linkedin.com/company/generativeroai"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://calls.generative.ro/api/",
     "auth": {
       "method": "bearer"
     }
