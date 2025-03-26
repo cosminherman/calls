@@ -16,7 +16,7 @@
     }
   },
   "topAnchor": {
-    "name": "Platform Guide",
+    "name": "Ghis platformă",
     "icon": "book"
   },
   "sidebar": {
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://generative.ro"
   }, {
-    "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "name": "Suport",
+    "url": "https://generative.ro/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://calls.generative.ro"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -39,18 +39,18 @@
     "color": "#6c63ff",
     "url": "automation-platform"
   }, {
-    "name": "White Label",
-    "icon": "tag",
+    "name": "Tutoriale video",
+    "icon": "video",
     "color": "#ff0142",
-    "url": "white-label"
+    "url": "automation-platform/tutorials"
   }, {
-    "name": "API Reference",
+    "name": "Referințe API",
     "icon": "code",
     "color": "#1c51fc",
     "url": "api-reference"
   }],
   "navigation": [{
-      "group": "Introduction",
+      "group": "Introducere",
       "pages": [
         "introduction/what-is-autocalls",
         "introduction/how-it-works",
@@ -58,14 +58,14 @@
       ]
     },
     {
-      "group": "Getting Started",
+      "group": "Să începem",
       "pages": [
         "getting-started/core-concepts",
         "getting-started/understanding-billing"
       ]
     },
     {
-      "group": "AI Assistants Overview",
+      "group": "Despre Asistenții AI",
       "pages": [
         "ai-assistants/what-is-ai-assistant",
         "ai-assistants/system-prompt",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "group": "Phone Numbers",
+      "group": "Numere de telefon",
       "pages": [
         "phone-numbers/types",
         "phone-numbers/purchasing-and-managing",
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "group": "Inbound Calls",
+      "group": "Apeluri primite",
       "pages": [
         "inbound-calls/overview",
         "inbound-calls/provisioning",
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "group": "Outbound Calls",
+      "group": "Apeluri efectuate",
       "pages": [
         "outbound-calls/overview",
         "outbound-calls/campaigns",
