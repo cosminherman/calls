@@ -34,7 +34,7 @@
     "url": "https://calls.generative.ro"
   },
   "anchors": [{
-    "name": "No-Code Automation",
+    "name": "Automatizare No-Code",
     "icon": "wand-magic-sparkles",
     "color": "#6c63ff",
     "url": "automation-platform"
@@ -138,14 +138,6 @@
       "pages": [
         "provisioning/supported-countries",
         "provisioning/managing-numbers"
-      ]
-    },
-    {
-      "group": "White Label Program",
-      "pages": [
-        "white-label/overview",
-        "white-label/onboarding",
-        "white-label/plans-setup"
       ]
     },
     {
